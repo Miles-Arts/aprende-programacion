@@ -1,7 +1,9 @@
 # Archivos
 
 # Java
+# JavaScript JS
 # Python
+# Cobol
 #  HTML
 # Programación
 
@@ -10,4 +12,4 @@ Aprende a programar
 - Estudiando
 - Revisando código de otr@s
 
-# Es posible y entrenido aprender programacioón 
+# Es posible y entretenido aprender programación 
