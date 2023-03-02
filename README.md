@@ -19,7 +19,7 @@ Aprende a programar
 
 
 <p align="center">
-  <img width="100%" height="auto" src="programacion-web-barcelona.jpg" alt="Programación" />
+  <img width="80%" height="auto" src="programacion-web-barcelona.jpg" alt="Programación" />
 </p>
 
 
