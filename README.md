@@ -21,4 +21,4 @@ Aprende a programar
 </p>
 
 
- **El arte desafía A la tecnología y la tecnología inspira al arte.** John Lasseter
+ # **El arte desafía A la tecnología y la tecnología inspira al arte.** John Lasseter
