@@ -35,4 +35,4 @@ Aprende a programar
 </p>
 
 
-# Los microprocesadores se están metiendo en todo. En un futuro cercano no habrá ningún accesorio -salvo una escoba, acaso- que no tenga un procesador dentro. Arthur C. Clarke.
+<h2> Los microprocesadores se están metiendo en todo. En un futuro cercano no habrá ningún accesorio -salvo una escoba, acaso- que no tenga un procesador dentro. Arthur C. Clarke. </h2>
