@@ -27,5 +27,5 @@ Aprende a programar
 
 
 <p align="center">
-  <img width="60%" height="auto" src="Programacion Miles Arts .png" alt="Vida de Programador " />
+  <img width="45%" height="auto" src="Programacion Miles Arts .png" alt="Vida de Programador " />
 </p>
