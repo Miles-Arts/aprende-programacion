@@ -33,3 +33,6 @@ Aprende a programar
 <p align="center">
   <img width="45%" height="auto" src="Programacion Miles Arts .png" alt="Vida de Programador " />
 </p>
+
+
+# Los microprocesadores se están metiendo en todo. En un futuro cercano no habrá ningún accesorio -salvo una escoba, acaso- que no tenga un procesador dentro. Arthur C. Clarke.
