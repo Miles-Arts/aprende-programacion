@@ -1,5 +1,7 @@
 # Archivos
 
+*Nota: Si tiene dificultades para ver un libro, actualizar página e intentarlo de nuevo*
+
 ## Java
 ## JavaScript JS
 ## Python
