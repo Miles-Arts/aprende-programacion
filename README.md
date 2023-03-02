@@ -24,7 +24,10 @@ Aprende a programar
 
 
  # **El arte desafía A la tecnología y la tecnología inspira al arte.** John Lasseter
-
+<p align="center">
+  # **El arte desafía A la tecnología y la tecnología inspira al arte.** 
+  John Lasseter
+</p>
 
 <p align="center">
   <img width="45%" height="auto" src="Programacion Miles Arts .png" alt="Vida de Programador " />
